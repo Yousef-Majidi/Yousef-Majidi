@@ -6,7 +6,7 @@ My name is Yousef, a passionate and creative mind, eager to learn new skills and
 * Currently working on `C++` & `C#` based projects using a range of frameworks.
 * Currently learning `Unity Game Engine` & `Game Development Fundamentals`.
 
-[![Linkedin Badge]()
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-majidi)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white&link=mailto:y.majidin@gmail.com)](mailto:y.majidin@gmail.com)
 
 ### * Languages:
