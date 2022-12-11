@@ -4,7 +4,7 @@
 My name is Yousef, a passionate and creative mind, eager to learn new skills and code! Currently in my third year towards getting a Bachelor's Degree in Software Development from Seneca College.
 
 * Currently working on `C++` & `C#` based projects using a range of frameworks.
-* Currently developing a pandemic simulation game with a team of two other students using Unity.
+* Currently leading development of a pandemic simulation game in `Unity`.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-majidi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.majidin@gmail.com)
