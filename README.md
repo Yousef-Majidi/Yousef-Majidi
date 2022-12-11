@@ -32,10 +32,10 @@ My name is Yousef, a passionate and creative mind, eager to learn new skills and
 
 <details>
   <summary> ⚡ GitHub Stats</summary>
-  <img align="left" alt="Yousef's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=the-gary&show_icons=true&hide_border=true" />
+  <img align="left" alt="Yousef's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yousef-majidi&show_icons=true&hide_border=true" />
 </details>
 
 <details>
   <summary> ⚡ Most Used Languages</summary>
-  <img align="left" alt="Yousef's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-gary" />
+  <img align="left" alt="Yousef's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef-majidi" />
 </details>
