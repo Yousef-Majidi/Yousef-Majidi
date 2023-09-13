@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Yousef, a passionate and creative mind, eager to learn new skills and code! Currently in my third year towards getting a Bachelor of Technology in Software Development from Seneca College.
+My name is Yousef, a passionate and creative mind, eager to learn new skills and code! Currently in my last year towards getting a Bachelor of Technology in Software Development from Seneca College.
 
 * Currently working on `C++` & `C#` based projects using a range of frameworks.
 * Currently leading development of a pandemic simulation game in `Unity`.
