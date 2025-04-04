@@ -3,7 +3,6 @@
 My name is Yousef, a passionate and creative developer with a recent Bachelor of Technology in Software Development from Seneca Polytechnic. I'm currently focused on building robust and engaging web applications using Next.js. I recently participated in Seneca's 2025 Hackathon and was honored to receive the Esri Prize, showcasing my ability to leverage geospatial technology in innovative solutions.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-majidi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.majidin@gmail.com)
 
 ### * Languages:
 
