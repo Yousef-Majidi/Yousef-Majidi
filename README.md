@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My name is Yousef, a passionate and creative developer with a recent Bachelor of Technology in Software Development from Seneca Polytechnic. I'm currently focused on building robust and engaging web applications using Next.js. I recently participated in Seneca's 2025 Hackathon and was honored to receive the Esri Prize, showcasing my ability to leverage geospatial technology in innovative solutions.
+I'm Yousef, a full-stack developer in Toronto.
+
+I build web applications with **Next.js** and **TypeScript**, usually on **Postgres**, and I spend most of my attention on the parts that are easy to get quietly wrong — access control, data modelling, and keeping deploys boring. Recent work includes a bill-management app for landlords, a bilingual (EN/فارسی, full RTL) storefront with an owner-facing CMS, and my own studio site.
+
+I also build **game engines and real-time simulations** — a 2D engine in C++/OpenGL, and physics and simulation work in Unity.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-majidi)
 
@@ -23,8 +27,10 @@ My name is Yousef, a passionate and creative developer with a recent Bachelor of
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
-
 ### * Databases:
+
+![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
