@@ -2,9 +2,9 @@
 
 I'm Yousef, a full-stack developer in Toronto.
 
-I build web applications with **Next.js** and **TypeScript**, usually on **Postgres**, and I spend most of my attention on the parts that are easy to get quietly wrong — access control, data modelling, and keeping deploys boring. Recent work includes a bill-management app for landlords, a bilingual (EN/فارسی, full RTL) storefront with an owner-facing CMS, and my own studio site.
+I build web applications with **Next.js** and **TypeScript**, usually on **Postgres**, and I spend most of my attention on the parts that are easy to get quietly wrong; access control, data modelling, and keeping deploys boring. Recent work includes a bill-management app for landlords, a bilingual (EN/فارسی, full RTL) storefront with an owner-facing CMS, and my own studio site.
 
-I also build **game engines and real-time simulations** — a 2D engine in C++/OpenGL, and physics and simulation work in Unity.
+I also build **game engines and real-time simulations**. A 2D engine in C++/OpenGL, and physics and simulation work in Unity.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-majidi)
 
